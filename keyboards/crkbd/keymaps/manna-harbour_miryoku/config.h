@@ -27,7 +27,7 @@ XXX,  K20,  K21,  K22,  K23,  K24,         K25,  K26,  K27,  K28,  K29,  XXX , \
 // #define EE_HANDS
 
 //#define QUICK_TAP_TERM 0
-//#define TAPPING_TERM 100
+//#define TAPPING_TERM 200
 
 #ifdef RGBLIGHT_ENABLE
     #define RGBLIGHT_EFFECT_BREATHING
